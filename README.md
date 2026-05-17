@@ -145,8 +145,8 @@ jupyter notebook f1-2024-25-eda-ml-podium-predictor.ipynb
 
 **Warsham Abid**
 - 📓 Kaggle Notebook: (https://www.kaggle.com/YOUR_KAGGLE_USERNAME](https://www.kaggle.com/code/warshamm/f1-2024-25-eda-ml-podium-predictor))
-- 💼 LinkedIn: [Connect]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/posts/warsham-abid-pk_kaggle-datascience-python-ugcPost-7461787894144491520-Pp2Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEq0dSEBFa3SVG0jhwbPPZcbQ2G7P7HTCjg))
-- 🐙 GitHub: [[Profile](https://github.com/warshamabid/F1-2024-25-eda-ml-podium-predictor)
+- 💼 LinkedIn: (https://www.linkedin.com/posts/warsham-abid-pk_kaggle-datascience-python-ugcPost-7461787894144491520-Pp2Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEq0dSEBFa3SVG0jhwbPPZcbQ2G7P7HTCjg))
+- 🐙 GitHub: (https://github.com/warshamabid/F1-2024-25-eda-ml-podium-predictor)
 
 ---
 
